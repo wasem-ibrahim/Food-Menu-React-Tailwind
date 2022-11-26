@@ -1,5 +1,5 @@
 # Food-Menu-React-Tailwind
-A Responsive Application that is built using React and Tailwind which is responsive for both desktops and mobile devecies:
+A Responsive Front-end Application that is built using React and Tailwind which is responsive for both desktops and mobile devecies:
 
 ## On desktops, there is a drawer menut, each component has its own hover effect
 ![Screenshot 2022-11-27 at 12 49 16 AM](https://user-images.githubusercontent.com/61679566/204111642-a95dfc5d-8a05-4fb7-81e7-f923940ab125.jpg)
